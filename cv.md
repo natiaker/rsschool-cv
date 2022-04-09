@@ -79,3 +79,21 @@ When I heard about Rs school I was happy, because I think it will give me a grea
 **New Horizon Project:**<br>[Georgian National Museum Webpage](https://github.com/natiaker/GNM.git)
 
 -------------------------
+
+<h3>Work Experience</h3>
+
+*Feb 2020 - Present*<br> **Senior Lab Assistant**<br> Research Department of Radiophysics and Electronic Systems Modelling of LEPL Ilia Vekua Sokhumi Institute of Physics and Technology
+
+*Mar 2020 - Present*<br> **Freelance Graphic Designer**<br> Fiverr and Upwork Marketplaces
+
+*Jan 2019 - Mar 2019*<br> **Electronics Engineer Intern**<br> Softmaster Georgia
+
+-------------------------
+
+### Languages
+
+- English (B2)
+- Russian (B1)
+- Georgian (Native)
+
+I have basic fluency in english (B2). I can communicate, study and work in english environment. I have studied english at school, then I continued studing english at the univesity. Now I communicate in English on my New Horizons course with my lecturer and also I have communication in english with my clients on the freelance platforms. Speaking english is a little bit my Achilles heel, but I'm working on it.
