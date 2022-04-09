@@ -40,3 +40,42 @@ When I heard about Rs school I was happy, because I think it will give me a grea
 - VS Code
 - Adobe Photoshop , Illustrator, InDesign
 - AutoCad
+
+-------------------------
+
+### Education
+
+*2016 - 2020*  **BA in Engineering** - Agricultural University of Georgia
+
+*2011 - 2016* **High School Diploma** - 42 Public School of Physics and Mathematics
+
+-------------------------
+
+### Courses
+
+**Udemy - *Daniel Walter Scott***<br> Responsive Web Design Essentials - HTML5 CSS3Bootstrap
+
+**CodeHS**<br> Intro to Programming with Karel the Dog (Ace)
+
+**freeCodeCamp** 
+- Responsive Web Design
+- JavaScript Algorithms and Data Structures
+
+**New Horizon**<br>JavaScript and Front End Frameworks (in progress)
+
+**RS Schools Course**<br>JavaScript/Front-end. Stage 0 (in progress)
+
+-------------------------
+
+### Projects
+
+**freeCodeCamp Projects:**
+- [Tribute Page](https://github.com/natiaker/tribute-page.git)
+- [Survey Form](https://github.com/natiaker/survey-form.git)
+- [Product Landing Page](https://codepen.io/natiakerdzaia/pen/zYZgYaE)
+- [Technical Documentation Page](https://codepen.io/natiakerdzaia/pen/VwbwZde)
+- [Personal Portfolio Webpage](https://codepen.io/natiakerdzaia/pen/RwVWGrg)
+
+**New Horizon Project:**<br>[Georgian National Museum Webpage](https://github.com/natiaker/GNM.git)
+
+-------------------------
