@@ -80,7 +80,7 @@ When I heard about Rs school I was happy, because I think it will give me a grea
 
 -------------------------
 
-<h3>Work Experience</h3>
+### Work Experience
 
 *Feb 2020 - Present*<br> **Senior Lab Assistant**<br> Research Department of Radiophysics and Electronic Systems Modelling of LEPL Ilia Vekua Sokhumi Institute of Physics and Technology
 
