@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Natia Kerdzaia</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a class="nav-link" href="#about-section">About me</a></li>
+                <li><a class="nav-link" href="#education-section">Education</a></li>
+                <li><a class="nav-link" href="#projects-section">Projects</a></li>
+                <li><a class="nav-link" href="#language-section">Languages</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="welcome-section">
+            <h1>RESUME</h1>
+            <img src="images/natiakerdzaia.jpg" alt="cv-image" style="width: 250px; border-radius: 50%">
+            <h2>Natia Kerdzaia</h2>
+            <hr>
+            <h2 style="font-weight: 200;">Junior Front End Developer</h2>
+            <hr>
+        </section>
+        <section id="about-section">
+            <h3>Contact Information:</h3>
+            <ul>
+                <li>Mobile: +995-571-30-03-51</li>
+                <li>E-mail: n.kerdzaia@gmail.com</li>
+                <li><a href="https://www.linkedin.com/in/natia-kerdzaia-8592791ba" target="_blank">LinkedIn</a></li>
+                <li><a href="https://codepen.io/natiakerdzaia" target="_blank">CodePen</a></li>
+            </ul>
+            <hr>
+            <h3>Brief Information about me</h3>
+            <p>Highly motivated entry level Front-end developer, who is able to build responsive web pages with basic knowledgein HTML5/CSS3, Javascript and willing to learn more and became successful in this field.</p>
+            <p>Also, I have basic knowledge in jQuery, git and small experience in Javascript’s framework Vue.js</p>
+            <p>Now I’m taking a New Horizons Course: JavaScript and Front End Frameworks. After that I’m going to take an international Information Technology Specialist certification test in JavaScript.</p>
+            <p>I graduated from high school Physics and Mathematics in 2016 and also got Bachelor degree in Electronics Engineering in 2020. I love Technical subjects from my childhood and keen on to continue studying and master the most popular and required profession today. I’m obsessed with drawing and graphic design too, so building designed webpage with technical skills is incredible for me and the best way to use my both - technical and artistic skills.</p>
+            <p>When I heard about Rs school I was happy, because I think it will give me a great education in Front-end developement and I will be able to improve my self-studying, also interview skills and a good opportunity to get a job in one of the world’s largest company as a FE developer.</p>
+            <hr>
+            <h3>Skills</h3>
+            <ul>
+                <li>HTML5/CSS3</li>
+                <li>JavaScript</li>
+                <li>jQuery</li>
+                <li>Visual Code Studio</li>
+                <li>Adobe Photoshop , Illustrator, InDesign</li>
+                <li>AutoCad</li>
+            </ul>
+            <hr>
+        </section>
+        <section id="education-section">
+            <h3>Education</h3>
+            <ul>
+                <li><i>2016 - 2020</i> <b>BA in Engineering</b> - Agricultural University of Georgia</li>
+                <li><i>2011 - 2016</i> <b>High School Diploma</b> - 42 Public School of Physics and Mathematics</li>
+            </ul>
+            <hr>
+            <h3>Courses</h3>
+            <h4>Udemy - <i>Daniel Walter Scott</i></h4>
+            <p>Responsive Web Design Essentials - HTML5 CSS3Bootstrap</p>
+            <h4>CodeHS</h4>
+            <p>Intro to Programming with Karel the Dog (Ace)</p>
+            <h4>freeCodeCamp</h4>
+            <ul>
+                <li>Responsive Web Design</li>
+                <li>JavaScript Algorithms and Data Structures</li>
+            </ul>
+            <h4>New Horizon</h4>
+            <p>JavaScript and Front End Frameworks (in progress)</p>
+            <h4>RS Schools Course</h4>
+            <p>JavaScript/Front-end. Stage 0 (in progress)</p>
+            <hr>
+        </section>
+        <section id="projects-section">
+            <h3>Projects</h3>
+            <h4>freeCodeCamp Projects:</h4>
+            <ul>
+                <li><a href="https://natiaker.github.io/tribute-page/" target="_blank">Tribute Page</a></li>
+                <li><a href="https://natiaker.github.io/survey-form/" target="_blank">Survey Form</a></li>
+                <li><a href="https://codepen.io/natiakerdzaia/pen/zYZgYaE" target="_blank">Product Landing Page</a></li>
+                <li><a href="https://codepen.io/natiakerdzaia/pen/VwbwZde" target="_blank">Technical Documentation Page</a></li>
+                <li><a href="https://codepen.io/natiakerdzaia/pen/RwVWGrg" target="_blank">Personal Portfolio Webpage</a></li>
+            </ul>
+            <h4>New Horizon Project:</h4>
+            <a href="https://natiaker.github.io/GNM/" target="_blank">Georgian National Museum Webpage</a>
+            <hr>
+            <h3>Code Example</h3>
+            <pre><code style="background-color:#f8f8f8; display: block">
+            $(document).ready(function(){
+                $("#btn").click(function(){
+                    $.ajax({url: "contactinformation.txt", success: function(result){
+                        $("#getInfo").html(result);
+                        $("#btn").remove();
+                    }});
+                });
+            });
+            </code></pre> 
+            <hr>
+            <h3>Work Experience</h3>
+            <p><i>Feb 2020 - Present</i></p>
+            <p><b>Senior Lab Assistant</b></p>
+            <p>Research Department of Radiophysics and Electronic Systems Modelling of LEPL Ilia Vekua Sokhumi Institute of Physics and Technology</p>
+            <p><i>Mar 2020 - Present</i></p>
+            <p><b>Freelance Graphic Designer</b></p>
+            <p>Fiverr and Upwork Marketplaces</p>
+            <p><i>Jan 2019 - Mar 2019</i></p>
+            <p><b>Electronics Engineer Intern</b></p>
+            <p>Softmaster Georgia</p>
+            <hr>
+        </section>
+        <section id="language-section">
+            <h3>Languages</h3>
+            <ul>
+                <li>Georgian <i>(Native)</i></li>
+                <li>Russian <i>(B1)</i></li>
+                <li>English <i>(B2)</i></li>
+            </ul>
+            <p>I have basic fluency in english (B2). I can communicate, study and work in english environment. I have studied english at school, then I continued studing english at the univesity. Now I communicate in English on my New Horizons course with my lecturer and also I have communication in english with my clients on the freelance platforms. Speaking english is a little bit my Achilles heel, but I’m working on it.</p>
+        </section>
+    </main>
+    <footer>
+        <a href="https://github.com/natiaker"  target="_blank"><i class="fa fa-github" style="font-size:36px"></i></a>
+        <p>April 2022</p>
+        <a href="https://rs.school/" target="_blank"><img src="images/rsschool.svg" style="width:80px;" alt="rsschool-logo"></a>
+    </footer>
+</body>
+</html>
+
