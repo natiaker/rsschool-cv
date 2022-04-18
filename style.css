@@ -54,3 +54,19 @@ footer {
 footer a {
     color: black;
 }
+
+@media (max-width: 670px) {
+    body {
+        width: 80%;
+    }
+    nav ul {
+        display: block;
+        text-align: center;
+    }
+    nav ul li {
+        padding: 10px 0;
+    }
+    pre {
+        white-space: pre-wrap;
+    }
+}
